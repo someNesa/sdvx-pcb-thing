@@ -1065,7 +1065,6 @@
     )
   )
 
-
   (junction (at 180.34 38.1) (diameter 0) (color 0 0 0 0)
     (uuid 0437b6df-18e5-4488-94b0-f35fd6b326b8)
   )
@@ -2172,7 +2171,7 @@
     (property "Value" "RotaryEncoder" (id 1) (at 44.45 66.0399 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "Rotary_Encoder:RotaryEncoder_Alps_EC12E_Vertical_H20mm_CircularMountingHoles" (id 2) (at 34.036 68.58 0)
+    (property "Footprint" "Rotary_Encoder:RotaryEncoder_Alps_EC11E_Vertical_H20mm_CircularMountingHoles" (id 2) (at 34.036 68.58 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 31.496 64.77 0)
@@ -2393,7 +2392,7 @@
     (property "Value" "RotaryEncoder" (id 1) (at 76.2 66.0399 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "Rotary_Encoder:RotaryEncoder_Alps_EC12E_Vertical_H20mm_CircularMountingHoles" (id 2) (at 65.786 68.58 0)
+    (property "Footprint" "Rotary_Encoder:RotaryEncoder_Alps_EC11E_Vertical_H20mm_CircularMountingHoles" (id 2) (at 65.786 68.58 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 63.246 64.77 0)
@@ -3270,10 +3269,10 @@
       (reference "USB1") (unit 1) (value "HRO-TYPE-C-31-M-12") (footprint "Type-C:HRO-TYPE-C-31-M-12-HandSoldering")
     )
     (path "/2b64f23e-8aa3-423f-98b6-a5736a34d8d1"
-      (reference "VOL-L1") (unit 1) (value "RotaryEncoder") (footprint "Rotary_Encoder:RotaryEncoder_Alps_EC12E_Vertical_H20mm_CircularMountingHoles")
+      (reference "VOL-L1") (unit 1) (value "RotaryEncoder") (footprint "Rotary_Encoder:RotaryEncoder_Alps_EC11E_Vertical_H20mm_CircularMountingHoles")
     )
     (path "/6811e5b7-2e9e-488d-ad26-8cee9006ba67"
-      (reference "VOL-R1") (unit 1) (value "RotaryEncoder") (footprint "Rotary_Encoder:RotaryEncoder_Alps_EC12E_Vertical_H20mm_CircularMountingHoles")
+      (reference "VOL-R1") (unit 1) (value "RotaryEncoder") (footprint "Rotary_Encoder:RotaryEncoder_Alps_EC11E_Vertical_H20mm_CircularMountingHoles")
     )
     (path "/5afcc4d1-6bd3-4c6e-b024-ebc55adcfe5a"
       (reference "Y1") (unit 1) (value "Crystal_GND24_Small") (footprint "Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm_HandSoldering")
